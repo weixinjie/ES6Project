@@ -59,6 +59,7 @@ function testGetProtoType() {
   console.log(result);
 }
 console.log('我是本地更改的东西');
+ console.log('我是远程更改的东西');
 testGetProtoType();
 // testAssign();
 // testAttrEnumerable();
