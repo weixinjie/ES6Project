@@ -1,8 +1,8 @@
 class Shape {
   constructor(x, y) {
-    console.log('');
-    this.x = x;
-    this.y = y;
+//     console.log('');
+//     this.x = x;
+//     this.y = y;
   }
 
   toString() {
