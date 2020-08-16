@@ -37,4 +37,7 @@ function testMapBaseUse(){
 }
 
 testMapBaseUse();
+ console.log('我是远程更改的东西');
+ console.log('我是远程更改的东西'); c
+ onsole.log('我是远程更改的东西');
 // testSetBaseUse();
