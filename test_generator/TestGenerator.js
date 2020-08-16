@@ -10,4 +10,5 @@
     console.log(testFun.next());
     console.log(testFun.next());
     console.log(testFun.next());
+     console.log('我是远程更改的东西');
 }
