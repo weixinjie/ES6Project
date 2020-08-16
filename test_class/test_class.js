@@ -1,7 +1,7 @@
 class Shape {
   constructor(x, y) {
 //     console.log('我是本地更改的东西');
-console.log('我是本地更改的东西');
+//     console.log('我是远程更改的东西');
 //     this.x = x;
 //     this.y = y;
   }
