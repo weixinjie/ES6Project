@@ -12,9 +12,10 @@ function testAttrShorthand() {
  * 属性的定义
  */
 function testAttrDefine() {
-  let testObj = {};
-  testObj.attr_1 = 'weixinjie';
-  testObj['attr_' + '2'] = 'zhangrui';
+//   let testObj = {};
+//   testObj.attr_1 = 'weixinjie';
+//   testObj['attr_' + '2'] = 'zhangrui';
+//   这些代码都没用了 仅做测试使用
 
   console.log(testObj);
 }
