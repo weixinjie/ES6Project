@@ -2,6 +2,8 @@
  * 测试属性的简写
  */
 function testAttrShorthand() {
+  const a = 'weixinjie';
+  const b = 'zhangrui'
   const foo = 'bar';
   const testObject = {foo};
   console.log(testObject);
