@@ -24,7 +24,7 @@ function testAttrDefine() {
  *  函数都有一个 name 属性，用来表示函数的名称
  */
 function testFunctionName() {
-  console.log(`testAttrDefine 函数的名称为 ${testAttrDefine.name}`);
+//   console.log(`testAttrDefine 函数的名称为 ${testAttrDefine.name}`);
 }
 
 /**
