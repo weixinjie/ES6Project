@@ -36,5 +36,7 @@ function testMapBaseUse(){
   console.log(mapToArray);
 }
 
+console.log('我是本地更改的东西');
+
 testMapBaseUse();
 // testSetBaseUse();

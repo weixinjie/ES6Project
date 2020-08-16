@@ -58,7 +58,7 @@ function testGetProtoType() {
   let result = Object.getPrototypeOf("foo");
   console.log(result);
 }
-
+console.log('我是本地更改的东西');
 testGetProtoType();
 // testAssign();
 // testAttrEnumerable();
